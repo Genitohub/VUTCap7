@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 123,
+    "left": 0,
+    "width": 556,
+    "height": 741,
+    "isRotated": true,
+    "originalWidth": 556,
+    "originalHeight": 989
+  },
+  "imagePath": "image-targets/V712_luminance.jpg",
+  "metadata": null,
+  "name": "V712",
+  "resources": {
+    "originalImage": "V712_original.jpg",
+    "croppedImage": "V712_cropped.jpg",
+    "thumbnailImage": "V712_thumbnail.jpg",
+    "luminanceImage": "V712_luminance.jpg"
+  },
+  "created": 1790111569415,
+  "updated": 1790111569415
+}
